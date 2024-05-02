@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <INI.Name>Improved Need Indicator</INI.Name>
+  <INI.ShowDetails>Maintenez la touche Ctrl pour les détails</INI.ShowDetails>
+  
+  <INI.Max>max: {0}</INI.Max>
+  <INI.Neutral>{0} pour être neutre</INI.Neutral>
+  
+  <INI.Beauty.Gorgeous>{0} jusqu'à un environnement magnifique</INI.Beauty.Gorgeous>
+  <INI.Beauty.Beautiful>{0} jusqu'à un environnement magnifique</INI.Beauty.Beautiful>
+  <INI.Beauty.Pretty>{0} jusqu'à un environnement joli</INI.Beauty.Pretty>
+  <INI.Beauty.Unsightly>{0} jusqu'à un environnement peu attrayant</INI.Beauty.Unsightly>
+  <INI.Beauty.Ugly>{0} jusqu'à un environnement laid</INI.Beauty.Ugly>
+  <INI.Beauty.Hideous>{0} jusqu'à un environnement hideux</INI.Beauty.Hideous>
+  
+  <INI.Comfort.LuxuriantlyComfortable>{0} jusqu'à un confort luxuriant</INI.Comfort.LuxuriantlyComfortable>
+  <INI.Comfort.ExtremelyComfortable>{0} jusqu'à un confort extrêmement confortable</INI.Comfort.ExtremelyComfortable>
+  <INI.Comfort.VeryComfortable>{0} jusqu'à un confort très confortable</INI.Comfort.VeryComfortable>
+  <INI.Comfort.Comfortable>{0} jusqu'à un confort confortable</INI.Comfort.Comfortable>
+  <INI.Comfort.Uncomfortable>{0} jusqu'à un inconfortable</INI.Comfort.Uncomfortable>
+
+  <INI.Food.Fed>Nourri dans {0}</INI.Food.Fed>
+  <INI.Food.Hungry>A faim dans {0}</INI.Food.Hungry>
+  <INI.Food.Ravenous>Affamé dans {0}</INI.Food.Ravenous>
+  <INI.Food.Malnourished>Malnutri dans {0}</INI.Food.Malnourished>
+  
+  <INI.Indoors.JustOutdoors>{0} jusqu'à tout juste à l'extérieur</INI.Indoors.JustOutdoors>
+  <INI.Indoors.Outdoors>{0} jusqu'à l'extérieur</INI.Indoors.Outdoors>
+  <INI.Indoors.LongOutdoors>{0} jusqu'à longtemps à l'extérieur</INI.Indoors.LongOutdoors>
+  <INI.Indoors.VeryLongOutdoors>{0} jusqu'à très longtemps à l'extérieur</INI.Indoors.VeryLongOutdoors>
+  <INI.Indoors.BrutalOutdoors>{0} jusqu'à un séjour brutal à l'extérieur</INI.Indoors.BrutalOutdoors>
+
+  <INI.Joy.FullySatisfied>{0} jusqu'à être pleinement satisfait</INI.Joy.FullySatisfied>
+  <INI.Joy.Satisfied>{0} jusqu'à être satisfait</INI.Joy.Satisfied>
+  <INI.Joy.Unfulfilled>{0} jusqu'à être insatisfait</INI.Joy.Unfulfilled>
+  <INI.Joy.Deprived>{0} jusqu'à être privé</INI.Joy.Deprived>
+  <INI.Joy.Starved>{0} jusqu'à être affamé</INI.Joy.Starved>
+
+  <INI.Mood.Content>{0} jusqu'à être content</INI.Mood.Content>
+  <INI.Mood.Minor>{0} jusqu'à un risque de petite pause</INI.Mood.Minor>
+  <INI.Mood.Major>{0} jusqu'à un risque de pause majeure</INI.Mood.Major>
+  <INI.Mood.Extreme>{0} jusqu'à un risque de pause extrême</INI.Mood.Extreme>
+
+  <INI.Outdoors.StuckIndoors>{0} jusqu'à être coincé à l'intérieur</INI.Outdoors.StuckIndoors>
+  <INI.Outdoors.TrappedIndoors>{0} jusqu'à être piégé à l'intérieur</INI.Outdoors.TrappedIndoors>
+  <INI.Outdoors.CabinFever>{0} jusqu'à la fièvre de cabine</INI.Outdoors.CabinFever>
+  <INI.Outdoors.TrappedUnderground>{0} jusqu'à être piégé sous terre</INI.Outdoors.TrappedUnderground>
+  <INI.Outdoors.EntombedUnderground>{0} jusqu'à être enseveli sous terre</INI.Outdoors.EntombedUnderground>
+
+  <INI.Rest.Rested>{0} jusqu'à être reposé</INI.Rest.Rested>
+  <INI.Rest.Drowsy>{0} jusqu'à être somnolent</INI.Rest.Drowsy>
+  <INI.Rest.Tired>{0} jusqu'à être fatigué</INI.Rest.Tired>
+  <INI.Rest.Exhausted>{0} jusqu'à être épuisé</INI.Rest.Exhausted>
+  <INI.Rest.MaxRestNeeded>repos maximal nécessaire : {0}</INI.Rest.MaxRestNeeded>
+</LanguageData>
